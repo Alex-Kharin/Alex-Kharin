@@ -1,0 +1,760 @@
+{
+  "data1": [
+    {
+      "id": 103,
+      "title": "Право",
+      "url": "/rubricator/pravo/",
+      "children": [
+        {
+          "id": 15,
+          "title": "УК РФ",
+          "url": "/rubricator/uk-rf/",
+          "children": [],
+          "count": 2
+        },
+        {
+          "id": 17,
+          "title": "Трудовое право",
+          "url": "/rubricator/trudovoe-pravo/",
+          "children": [],
+          "count": 3
+        },
+        {
+          "id": 20,
+          "title": "НК РФ",
+          "url": "/rubricator/nk-rf/",
+          "children": [
+            {
+              "id": 199,
+              "title": "Налоговые споры",
+              "url": "/rubricator/sudebnaja-praktika-po-nalogovym-sporam/",
+              "children": [],
+              "count": 3
+            },
+            {
+              "id": 1990,
+              "title": "Налоговые поборы",
+              "url": "/rubricator/sudebnaja-praktika-po-nalogovym-sporam/",
+              "children": [],
+              "count": 8
+            }
+          ],
+          "count": 34
+        },
+        {
+          "id": 108,
+          "title": "КоАП РФ",
+          "url": "/rubricator/koap-rf/",
+          "children": [],
+          "count": 8
+        },
+        {
+          "id": 130,
+          "title": "ГК РФ",
+          "url": "/rubricator/gk-rf/",
+          "children": [
+            {
+              "id": 479,
+              "title": "Авторское право",
+              "url": "/rubricator/479/",
+              "children": [],
+              "count": 2
+            },
+            {
+              "id": 480,
+              "title": "Товарный знак",
+              "url": "/rubricator/480/",
+              "children": [
+                {
+                  "id": 155,
+                  "title": "Полиция",
+                  "url": "/rubricator/policiya/",
+                  "children": [],
+                  "count": 2
+                },
+                {
+                  "id": 157,
+                  "title": "Законопроекты",
+                  "url": "/rubricator/zakonoproekti/",
+                  "children": [],
+                  "count": 7
+                },
+                {
+                  "id": 164,
+                  "title": "Коллекторы",
+                  "url": "/rubricator/kollektori/",
+                  "children": [],
+                  "count": 4
+                }
+              ],
+              "count": 17
+            }
+          ],
+          "count": 3
+        }
+      ],
+      "count": 21
+    },
+    {
+      "id": 100,
+      "title": "Бухгалтерия",
+      "url": "/rubricator/buhgalterija/",
+      "children": [
+        {
+          "id": 2,
+          "title": "Учетная политика",
+          "url": "/rubricator/uchetnaja-politika/",
+          "children": [],
+          "count": 0
+        },
+        {
+          "id": 5,
+          "title": "Бухгалтерский учет",
+          "url": "/rubricator/buhgalterskij-uchet/",
+          "children": [],
+          "count": 15
+        },
+        {
+          "id": 10,
+          "title": "ВЭД",
+          "url": "/rubricator/ved/",
+          "children": [],
+          "count": 5
+        },
+        {
+          "id": 16,
+          "title": "Первичка",
+          "url": "/rubricator/pervichnye-dokumenty/",
+          "children": [],
+          "count": 0
+        },
+        {
+          "id": 19,
+          "title": "Аудит",
+          "url": "/rubricator/audit/",
+          "children": [],
+          "count": 2
+        },
+        {
+          "id": 25,
+          "title": "Основные средства",
+          "url": "/rubricator/osnovnye-sredstva/",
+          "children": [],
+          "count": 0
+        },
+        {
+          "id": 31,
+          "title": "Онлайн-кассы",
+          "url": "/rubricator/onlajn-kassy/",
+          "children": [],
+          "count": 6
+        },
+        {
+          "id": 37,
+          "title": "Обособленные подразделения, филиалы",
+          "url": "/rubricator/obosoblennye-podrazdelenija-filialy/",
+          "children": [],
+          "count": 1
+        },
+        {
+          "id": 63,
+          "title": "Учет займов и кредитов",
+          "url": "/rubricator/zajmy-kredity/",
+          "children": [],
+          "count": 0
+        },
+        {
+          "id": 149,
+          "title": "Уставный капитал",
+          "url": "/rubricator/ustavnyj-kapital/",
+          "children": [],
+          "count": 0
+        },
+        {
+          "id": 158,
+          "title": "МСФО",
+          "url": "/rubricator/msfo/",
+          "children": [],
+          "count": 1
+        },
+        {
+          "id": 160,
+          "title": "Делопроизводство",
+          "url": "/rubricator/deloproizvodstvo/",
+          "children": [],
+          "count": 0
+        },
+        {
+          "id": 263,
+          "title": "Обзоры для бухгалтера",
+          "url": "/rubricator/obzory-dlya-buhgaltera/",
+          "children": [],
+          "count": 0
+        },
+        {
+          "id": 312,
+          "title": "Блокировка счетов 115-ФЗ",
+          "url": "/rubricator/312/",
+          "children": [],
+          "count": 1
+        },
+        {
+          "id": 318,
+          "title": "Расчеты с работниками",
+          "url": "/rubricator/rascheti/",
+          "children": [
+            {
+              "id": 9,
+              "title": "Зарплата",
+              "url": "/rubricator/zarplata/",
+              "children": [],
+              "count": 1
+            },
+            {
+              "id": 218,
+              "title": "Социальные пособия",
+              "url": "/rubricator/sotsialnye-posobija/",
+              "children": [],
+              "count": 5
+            },
+            {
+              "id": 319,
+              "title": "Премии",
+              "url": "/rubricator/premii/",
+              "children": [],
+              "count": 10
+            },
+            {
+              "id": 320,
+              "title": "Подотчет, командировки",
+              "url": "/rubricator/podotchet-komandirovki/",
+              "children": [],
+              "count": 0
+            },
+            {
+              "id": 321,
+              "title": "Отпускные",
+              "url": "/rubricator/otpusknie/",
+              "children": [],
+              "count": 0
+            },
+            {
+              "id": 322,
+              "title": "Компенсация за неиспользованный отпуск",
+              "url": "/rubricator/kompensaciya-za-otpusk/",
+              "children": [],
+              "count": 4
+            },
+            {
+              "id": 441,
+              "title": "Декретный отпуск",
+              "url": "/rubricator/441/",
+              "children": [],
+              "count": 0
+            },
+            {
+              "id": 442,
+              "title": "Больничные",
+              "url": "/rubricator/442/",
+              "children": [],
+              "count": 0
+            },
+            {
+              "id": 443,
+              "title": "Детские пособия",
+              "url": "/rubricator/443/",
+              "children": [],
+              "count": 8
+            }
+          ],
+          "count": 13
+        },
+        {
+          "id": 449,
+          "title": "Дебиторская задолженность",
+          "url": "/rubricator/449/",
+          "children": [],
+          "count": 1
+        },
+        {
+          "id": 450,
+          "title": "Бухгалтерский аутсорсинг",
+          "url": "/rubricator/450/",
+          "children": [],
+          "count": 1
+        },
+        {
+          "id": 453,
+          "title": "Кредиторская задолженность",
+          "url": "/rubricator/453/",
+          "children": [],
+          "count": 0
+        },
+        {
+          "id": 454,
+          "title": "НМА",
+          "url": "/rubricator/nma/",
+          "children": [],
+          "count": 0
+        },
+        {
+          "id": 455,
+          "title": "Кассовые операции",
+          "url": "/rubricator/kassovije-operatsii/",
+          "children": [],
+          "count": 1
+        },
+        {
+          "id": 456,
+          "title": "Справочно-правовые системы",
+          "url": "/rubricator/spravochno-pravovije-sistemi/",
+          "children": [],
+          "count": 2
+        },
+        {
+          "id": 471,
+          "title": "Управленческий учет",
+          "url": "/rubricator/upravlencheskiy-uchet/",
+          "children": [],
+          "count": 1
+        }
+      ],
+      "count": 100
+    }
+  ],
+  "data2": [
+    {
+      "id": 100,
+      "title": "Бухгалтерия",
+      "url": "/rubricator/buhgalterija/",
+      "children": [
+        {
+          "id": 5,
+          "title": "Бухгалтерский учет",
+          "url": "/rubricator/buhgalterskij-uchet/",
+          "count": 15
+        },
+        {
+          "id": 10,
+          "title": "ВЭД",
+          "url": "/rubricator/ved/",
+          "count": 5
+        },
+        {
+          "id": 19,
+          "title": "Аудит",
+          "url": "/rubricator/audit/",
+          "count": 2
+        },
+        {
+          "id": 31,
+          "title": "Онлайн-кассы",
+          "url": "/rubricator/onlajn-kassy/",
+          "count": 6
+        },
+        {
+          "id": 37,
+          "title": "Обособленные подразделения, филиалы",
+          "url": "/rubricator/obosoblennye-podrazdelenija-filialy/",
+          "count": 1
+        },
+        {
+          "id": 158,
+          "title": "МСФО",
+          "url": "/rubricator/msfo/",
+          "count": 1
+        },
+        {
+          "id": 312,
+          "title": "Блокировка счетов 115-ФЗ",
+          "url": "/rubricator/312/",
+          "count": 1
+        },
+        {
+          "id": 318,
+          "title": "Расчеты с работниками",
+          "url": "/rubricator/rascheti/",
+          "count": 13
+        },
+        {
+          "id": 449,
+          "title": "Дебиторская задолженность",
+          "url": "/rubricator/449/",
+          "count": 1
+        },
+        {
+          "id": 450,
+          "title": "Бухгалтерский аутсорсинг",
+          "url": "/rubricator/450/",
+          "count": 1
+        },
+        {
+          "id": 455,
+          "title": "Кассовые операции",
+          "url": "/rubricator/kassovije-operatsii/",
+          "count": 1
+        },
+        {
+          "id": 471,
+          "title": "Управленческий учет",
+          "url": "/rubricator/upravlencheskiy-uchet/",
+          "count": 1
+        }
+      ],
+      "count": 100
+    },
+    {
+      "id": 101,
+      "title": "Банки",
+      "url": "/rubricator/banki/",
+      "children": [
+        {
+          "id": 93,
+          "title": "Валютные операции",
+          "url": "/rubricator/valjutnye-operatsii/",
+          "count": 5
+        },
+        {
+          "id": 228,
+          "title": "Электронные деньги",
+          "url": "/rubricator/elektronnye-dengi-raschety-elektronnymi-dengami/",
+          "count": 1
+        },
+        {
+          "id": 446,
+          "title": "Наличные деньги",
+          "url": "/rubricator/446/",
+          "count": 1
+        }
+      ],
+      "count": 0
+    },
+    {
+      "id": 102,
+      "title": "Автоматизация учета",
+      "url": "/rubricator/avtomatizatsija-ucheta/",
+      "children": [
+        {
+          "id": 43,
+          "title": "1С",
+          "url": "/rubricator/1c/",
+          "count": 3
+        },
+        {
+          "id": 73,
+          "title": "Бухгалтерские программы",
+          "url": "/rubricator/buhgalterskie-programmy/",
+          "count": 1
+        },
+        {
+          "id": 230,
+          "title": "ЭДО",
+          "url": "/rubricator/elektronnyj-dokumentooborot-elektronnaja-otchetnost/",
+          "count": 2
+        }
+      ],
+      "count": 2
+    },
+    {
+      "id": 103,
+      "title": "Право",
+      "url": "/rubricator/pravo/",
+      "children": [
+        {
+          "id": 15,
+          "title": "УК РФ",
+          "url": "/rubricator/uk-rf/",
+          "count": 2
+        },
+        {
+          "id": 17,
+          "title": "Трудовое право",
+          "url": "/rubricator/trudovoe-pravo/",
+          "count": 3
+        },
+        {
+          "id": 155,
+          "title": "Полиция",
+          "url": "/rubricator/policiya/",
+          "count": 2
+        },
+        {
+          "id": 212,
+          "title": "Банкротство",
+          "url": "/rubricator/bankrotstvo/",
+          "count": 4
+        },
+        {
+          "id": 262,
+          "title": "Антимонопольное право",
+          "url": "/rubricator/antimonopolnoe-pravo/",
+          "count": 1
+        },
+        {
+          "id": 287,
+          "title": "Защита персональных данных",
+          "url": "/rubricator/zashita-personalnih-dannih/",
+          "count": 2
+        },
+        {
+          "id": 475,
+          "title": "Авторское право",
+          "url": "/rubricator/475/",
+          "count": 1
+        }
+      ],
+      "count": 21
+    },
+    {
+      "id": 105,
+      "title": "Налоги, взносы, пошлины",
+      "url": "/rubricator/nalogi-vznosy-poshlini/",
+      "children": [
+        {
+          "id": 4,
+          "title": "НДС",
+          "url": "/rubricator/nds/",
+          "count": 15
+        },
+        {
+          "id": 27,
+          "title": "НДФЛ",
+          "url": "/rubricator/ndfl/",
+          "count": 12
+        },
+        {
+          "id": 30,
+          "title": "Транспортный налог",
+          "url": "/rubricator/transportnyj-nalog/",
+          "count": 1
+        },
+        {
+          "id": 82,
+          "title": "Оптимизация налогообложения",
+          "url": "/rubricator/optimizatsija-nalogooblozhenija/",
+          "count": 22
+        },
+        {
+          "id": 213,
+          "title": "Страховые взносы",
+          "url": "/rubricator/strahovye-vznosy/",
+          "count": 10
+        },
+        {
+          "id": 270,
+          "title": "Проверка контрагентов",
+          "url": "/rubricator/proverka-kontragentov/",
+          "count": 2
+        },
+        {
+          "id": 445,
+          "title": "Налоговые изменения 2021",
+          "url": "/rubricator/445/",
+          "count": 4
+        }
+      ],
+      "count": 6
+    },
+    {
+      "id": 106,
+      "title": "Свой бизнес",
+      "url": "/rubricator/svoj-biznes/",
+      "children": [
+        {
+          "id": 57,
+          "title": "Менеджмент",
+          "url": "/rubricator/menedzhment/",
+          "count": 1
+        },
+        {
+          "id": 59,
+          "title": "Маркетинг",
+          "url": "/rubricator/marketing/",
+          "count": 2
+        },
+        {
+          "id": 60,
+          "title": "Управление финансами",
+          "url": "/rubricator/upravlenie-finansami/",
+          "count": 6
+        },
+        {
+          "id": 91,
+          "title": "Бизнес-психология",
+          "url": "/rubricator/biznes-psihologija/",
+          "count": 7
+        },
+        {
+          "id": 165,
+          "title": "Инвестиции",
+          "url": "/rubricator/investitsii/",
+          "count": 2
+        },
+        {
+          "id": 329,
+          "title": "Индивидуальный предприниматель",
+          "url": "/rubricator/individualniy-predprinimatel/",
+          "count": 4
+        }
+      ],
+      "count": 3
+    },
+    {
+      "id": 126,
+      "title": "Отраслевой учет",
+      "url": "/rubricator/otraslevoj-uchet-i-spetsrezhimy/",
+      "children": [
+        {
+          "id": 67,
+          "title": "Учет в строительстве",
+          "url": "/rubricator/uchet-v-stroitelstve/",
+          "count": 2
+        },
+        {
+          "id": 112,
+          "title": "Учет в некоммерческих организациях",
+          "url": "/rubricator/uchet-v-nekommercheskih-organizatsijah/",
+          "count": 3
+        },
+        {
+          "id": 284,
+          "title": "Маркировка товаров",
+          "url": "/rubricator/markirovka-tovarov/",
+          "count": 2
+        }
+      ],
+      "count": 1
+    },
+    {
+      "id": 290,
+      "title": "Интернет и IT",
+      "url": "/rubricator/internet/",
+      "children": [],
+      "count": 2
+    },
+    {
+      "id": 295,
+      "title": "Отчетность",
+      "url": "/rubricator/otchetnost/",
+      "children": [
+        {
+          "id": 239,
+          "title": "Бухгалтерская отчетность",
+          "url": "/rubricator/buhgalterskaja-otchetnost/",
+          "count": 1
+        }
+      ],
+      "count": 0
+    },
+    {
+      "id": 296,
+      "title": "Проверки",
+      "url": "/rubricator/proverki/",
+      "children": [
+        {
+          "id": 33,
+          "title": "Налоговые проверки",
+          "url": "/rubricator/nalogovye-proverki/",
+          "count": 24
+        },
+        {
+          "id": 259,
+          "title": "Налоговый мониторинг",
+          "url": "/rubricator/nalogovyj-monitoring/",
+          "count": 2
+        }
+      ],
+      "count": 4
+    },
+    {
+      "id": 297,
+      "title": "Спецрежимы",
+      "url": "/rubricator/specrejimi/",
+      "children": [
+        {
+          "id": 8,
+          "title": "ЕНВД",
+          "url": "/rubricator/envd/",
+          "count": 1
+        },
+        {
+          "id": 29,
+          "title": "УСН",
+          "url": "/rubricator/usn/",
+          "count": 2
+        },
+        {
+          "id": 331,
+          "title": "Самозанятые",
+          "url": "/rubricator/samozanyatie/",
+          "count": 5
+        }
+      ],
+      "count": 0
+    },
+    {
+      "id": 299,
+      "title": "Кадры",
+      "url": "/rubricator/kadri/",
+      "children": [
+        {
+          "id": 58,
+          "title": "Управление персоналом (аутсорсинг, аутстаффинг)",
+          "url": "/rubricator/upravlenie-personalom/",
+          "count": 2
+        },
+        {
+          "id": 278,
+          "title": "Кадровый учет",
+          "url": "/rubricator/kadrovyj-uchet/",
+          "count": 8
+        },
+        {
+          "id": 330,
+          "title": "Трудовые отношения",
+          "url": "/rubricator/trudovie-otnosheniya/",
+          "count": 5
+        },
+        {
+          "id": 474,
+          "title": "Иностранные работники",
+          "url": "/rubricator/inostrannie-rabotniki/",
+          "count": 4
+        }
+      ],
+      "count": 5
+    },
+    {
+      "id": 313,
+      "title": "Бухгалтеры",
+      "url": "/rubricator/buhgalteri/",
+      "children": [
+        {
+          "id": 64,
+          "title": "Главбух: права, обязанности,  передача дел",
+          "url": "/rubricator/glavbuh-prava-objazanosti--peredacha-del/",
+          "count": 1
+        },
+        {
+          "id": 314,
+          "title": "Психология для бухгалтера",
+          "url": "/rubricator/314/",
+          "count": 1
+        },
+        {
+          "id": 315,
+          "title": "Карьера бухгалтера",
+          "url": "/rubricator/315/",
+          "count": 2
+        },
+        {
+          "id": 316,
+          "title": "Обучение для бухгалтеров",
+          "url": "/rubricator/316/",
+          "count": 2
+        }
+      ],
+      "count": 0
+    }
+  ]
+}
